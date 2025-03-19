@@ -3,7 +3,7 @@
 <h3> 👨🏼‍💻 &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 💼 &nbsp; Trabalhando como Engenheiro de Software PHP Pleno.
+- 💼 &nbsp; Trabalhando como Engenheiro de Software PHP Sênior.
 - 🌱 &nbsp; Aprendendo mais sobre várias tecnologias no dia a dia.
 
 <h3> 🚀 &nbsp;Minhas Skills </h3>
